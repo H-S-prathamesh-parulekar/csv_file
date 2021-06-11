@@ -86,7 +86,7 @@
                     <tr>
                         <th class="th-sm" style="display :none">Name
                         </th>
-                        <th class="th-sm">Position
+                        <th class="th-sm">Name
                         </th>
                         <th class="th-sm">Artist
                         </th>
